@@ -1,12 +1,15 @@
-# React + Vite
+#A simple and fun lottery game built with React JS.
+Users can generate a n-digit random ticket, and if the sum of the digits equals 15, they win!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo
+[🎰 Play the Lottery Game](https://lottery-2.netlify.app/)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+⚛️ React JS – Frontend framework
 
-## Expanding the ESLint configuration
+🎨 CSS – Styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Vite or Create React App – Project setup (mention which one you used)
+
+🌐 Netlify – Deployment
